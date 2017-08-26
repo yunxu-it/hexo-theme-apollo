@@ -2,12 +2,8 @@
 
 ## 文档
 
-- [中文文档](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-zh.md)
+- [中文文档 · 原](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-zh.md)
 - [Document](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-en.md)
-
-## 贡献
-
-该项目不再接受添加新特性、功能的 pull request，所有创造性的想法请 fork 该项目之后自由发挥。
 
 ## 安装
 
@@ -35,7 +31,17 @@ archive_generator:
     yearly: false
     monthly: false
     daily: false
+
+=== 以下为yunxu-it更新
+
+# 在文章和首页显示原文地址
+title: *** 文章标题
+date: *** 发布时间
+from: *** 转载地址
+trans: *** 翻译原文地址
 ```
+
+
 
 ## 更新
 
